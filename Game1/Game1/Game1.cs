@@ -14,6 +14,12 @@ namespace Game1
 
         public Game1()
         {
+
+
+            //dffddfddfdfd
+
+
+
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
         }
